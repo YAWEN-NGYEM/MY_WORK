@@ -1,0 +1,14 @@
+.code{
+    color: aqua;
+    margin-top: 50px;
+    padding-left: 20px;
+    border-color: aqua;
+}
+button{
+    padding-top: 30px;
+    color: aqua;
+}
+    body {
+        background-color: darkgoldenrod;
+        color: aqua;
+}

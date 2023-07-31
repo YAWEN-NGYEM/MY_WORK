@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+.green{
+    color: rgb(21, 128, 0);
+}
+.red{
+    color: red;
+}
+.white{
+    color: aqua;
+}
+.pink{
+    color: pink;
+}
+.footer{
+    font-size: 20px;
+}
+p{
+    font-size: 2em;
+}
+span{
+    color: brown;
+    font-family: 'Lugrasimo', cursive;
+
+}
+.p{
+    font-size: 5rem;
+    font-weight: lighter;
+}
+button{
+    color: aqua;
+    background-color: brown;
+    border-radius: 30px;
+    border-bottom: 20px;
+    border-left: 20px;
+    border-width: 5px;
+    border-style: groove;
+    padding-inline: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: larger;
+}

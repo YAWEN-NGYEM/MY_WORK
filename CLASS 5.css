@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+#Header{
+    background-color: darkgoldenrod;
+padding: 200px 0;
+font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-size: 5rem;
+}
+.web{
+    font-size: 3rem;
+}
+h2{
+    color: darkgoldenrod;
+    margin-top: 60px;
+}
+img{
+    width: 100px;
+}
+.About{
+    margin: auto;
+    margin-top: 50px;
+}
+h3{
+    color: darkgoldenrod;
+}
+li{
+    list-style-type: none;
+    margin-right: 40px;
+}
+h4{
+    color: rgb(184, 103, 11);
+}
+.lorem{
+    margin: auto;
+}
+footer{
+    background-color: crimson;
+    padding: 20px 20px 0 0;
+    color: white;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}

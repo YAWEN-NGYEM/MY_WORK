@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+.lorem2{
+color: aqua;
+}
+button{
+    background-color: rgb(0, 119, 255);
+    font-size: medium;
+    border-radius: 15px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+  margin-inline-end: 0px;
+  box-sizing: border-box;
+}
+.Linkedln{
+    background-color: aqua;
+padding-top: 20px;
+padding-left: 0cap;
+padding-right: 0cap;
+color: rgb(0, 140, 255);
+}
+span{
+    font-size: smaller;
+    color: white;
+}
+.Header{
+
+}
+.Hi{
+    font-size: 50px;
+    color: aqua;
+}
+.Ti{
+    font-size: 50px;
+    color: aqua;
+}
+img{
+    width: 100px;
+}

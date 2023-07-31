@@ -1,0 +1,34 @@
+h1, p{
+    color: blue;
+}
+
+@media(max-width:1000px) and (min-width:900px){
+h1, p{
+    color: red;
+}
+}
+
+div > h2{
+    color: red;
+}
+
+div li{
+    color: brown;
+}
+
+h1.world#word{
+    color: aqua;
+}
+
+button{
+    background-color: black;
+    padding: 10px 20px;
+    color:red;
+    font-size: 2rem;
+}
+
+button:hover{
+  color: palevioletred;
+  background-color: blue;
+
+}
